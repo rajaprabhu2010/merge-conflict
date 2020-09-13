@@ -3,4 +3,5 @@ Test 1{
 initialize()
 {}
 call the value(){}
+multiple values()
 }
